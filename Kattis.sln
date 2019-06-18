@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29001.49
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kattis_HelloWorld", "Kattis\Kattis_HelloWorld.csproj", "{7839AF46-BEC7-47CE-A3B5-6A05A5A74C62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kattis_HelloWorld", "Kattis\Kattis_HelloWorld.csproj", "{7839AF46-BEC7-47CE-A3B5-6A05A5A74C62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kattis_Pot", "Kattis_Pot\Kattis_Pot.csproj", "{2D3AEAAA-9C01-4BC8-9F89-8A561090A182}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kattis_Pot", "Kattis_Pot\Kattis_Pot.csproj", "{2D3AEAAA-9C01-4BC8-9F89-8A561090A182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kattis_BitByBit", "Kattis_BitByBit\Kattis_BitByBit.csproj", "{B2A974E6-27F3-4E07-994D-DA58D9BB61B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2D3AEAAA-9C01-4BC8-9F89-8A561090A182}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D3AEAAA-9C01-4BC8-9F89-8A561090A182}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D3AEAAA-9C01-4BC8-9F89-8A561090A182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A974E6-27F3-4E07-994D-DA58D9BB61B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A974E6-27F3-4E07-994D-DA58D9BB61B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A974E6-27F3-4E07-994D-DA58D9BB61B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A974E6-27F3-4E07-994D-DA58D9BB61B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
